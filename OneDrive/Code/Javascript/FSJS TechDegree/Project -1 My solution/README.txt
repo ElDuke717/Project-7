@@ -1,0 +1,1 @@
+This folder contains my homebrew solution to the first project in the FSJS TechDegree.  I didn't follow the instructions, and thus I had to refactor my code using the provided files.  The quote does not refresh when you hit the button. 
